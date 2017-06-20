@@ -1,5 +1,3 @@
-#### Playing Sound Files with Python
-
 To play a sound file with Python, you can use a module called *Pygame*. This comes pre-installed on a Raspberry Pi, but if you are on another operating system you may need to use [pip]() to install it. On Linux and MacOS you can open a termianl and type:
 
 ~~~bash
