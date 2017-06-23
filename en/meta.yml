@@ -7,6 +7,6 @@ duration: 1 # 1, 2 or 3
 listed: false
 ingredient: true
 interests: "sound, music"
-technologies: "[python]"
+technologies: "python"
 steps:
   - title: Playing sound files with Python
