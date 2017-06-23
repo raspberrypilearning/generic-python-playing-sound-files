@@ -3,7 +3,7 @@ hero_image: images/banner.png
 description: How to play sound files with Pythonn
 original_url: 
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
 ingredient: true
 interests: "sound, music"
