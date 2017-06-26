@@ -1,4 +1,5 @@
-To play a sound file with Python, you can use a module called *Pygame*. This comes pre-installed on a Raspberry Pi, but if you are on another operating system you may need to use [pip](https://pip.pypa.io/en/stable/installing/) to install it. On Linux and MacOS you can open a terminal and type:
+To play a sound file with Python, you can use a module called `pygame`. It comes pre-installed on a Raspberry Pi, but if you are on another operating system you may need to use [pip](https://pip.pypa.io/en/stable/installing/) to install it.
+On Linux and MacOS you can open a terminal and type:
 
 ```bash
 sudo pip3 install pygame
@@ -12,7 +13,7 @@ pip3 install pygame
 
 ### Importing and initialising pygame
 
-- To begin with you will need to import the `pygame` module and initialise it.
+- First you will need to import the `pygame` module and initialise it.
 
    ```python
    import pygame
@@ -27,7 +28,7 @@ pip3 install pygame
    my_sound = pygame.mixer.Sound('path/to/my/soundfile.wav')
    ```
    
-- Lastly you can play the sound.
+- Then you can play the sound.
 
    ```python
    my_sound.play()
