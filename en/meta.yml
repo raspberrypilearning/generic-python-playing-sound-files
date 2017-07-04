@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-title: Playing Sound files with Python
-=======
 title: Playing sound files with Python
->>>>>>> 60077adc7c73451f1de942a607b2ef83fcf1eaba
 hero_image: images/banner.png
 description: How to play sound files with Python
 original_url: 
@@ -10,12 +6,8 @@ theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
+copyedit: true
 interests: "sound, music"
 technologies: "python"
 steps:
-<<<<<<< HEAD
   - title: Playing sound files with Python
-=======
-  - title: Playing sound files
-
->>>>>>> 60077adc7c73451f1de942a607b2ef83fcf1eaba
